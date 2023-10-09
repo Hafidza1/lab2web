@@ -40,7 +40,8 @@ Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
 Jawaban:
 
-1. ![Screenshot (207)](https://github.com/Hafidza1/lab2web/assets/115520666/362568b2-42ea-47ac-8284-707b680bf47c)
+1.
+ ![Screenshot (207)](https://github.com/Hafidza1/lab2web/assets/115520666/362568b2-42ea-47ac-8284-707b680bf47c)
 
 2. intro h1 {...} hanya memberikan sebuah style atau elemen yang ada dalam cakupan intro itu sendiri.
 
